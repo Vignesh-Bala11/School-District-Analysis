@@ -44,5 +44,4 @@ The school board notified Maria and her supervisor that there has been academic 
         Removing the grade 9 students there was no change to the table
     
 ## Summary 
-Removing the grade 9 did not affect the school district analysis except for the district summary when the math scores dropped by
-0.1%. This makes sense because of a data set containg 39,170 students only the grade 9 students of a particular highshool were removed (461 grade 9 students from Thomas High School were removed due to academic dishonesty) which shouldn't make to much of a difference and the resultant tables proved that compared to when the grade 9 students of Thomas High School were included in the analysis
+Removing the grade 9 did not affect the school district analysis except for the district summary as reading, math and overall scores dropped by a marginal amount. This makes sense because of a data set containg 39,170 students only the grade 9 students of a particular highshool were removed (461 grade 9 students from Thomas High School were removed due to academic dishonesty) which shouldn't make to much of a difference and the resultant tables proved that compared to when the grade 9 students of Thomas High School were included in the analysis.
