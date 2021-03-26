@@ -3,7 +3,7 @@
 ## Overview of School District Analysis
 The school board notified Maria and her supervisor that there has been academic dishonesty regarding the 9 math and reading scores for the grade 9 students at Thomas High School. Maria has asked to remove the grade 9 students math and reading score from the data run the whole analysis from scratch to see if the grade 9 scores have an effect on the overall data 
 
-## Resutls 
+## Results 
 - How is the district summary affected?
 
     By taking out the grade 9 students of THS, the average math score dropped by 0.1%, passing math score dropped by 0.2%, passing reading score dropped by 0.3% and lastly the overall passing score dropped by 0.1%
