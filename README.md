@@ -49,15 +49,20 @@ The school board notified Maria and her supervisor that there has been academic 
          
          ![Screenshot (38)](https://user-images.githubusercontent.com/57723459/112701733-d0282680-8e67-11eb-9df0-c137a4ab0c71.png)
          
+         
          Math Scores Without Grade 9 THS Students:
+         
          ![New_Math_scores_by_grade](https://user-images.githubusercontent.com/57723459/112701747-d6b69e00-8e67-11eb-87cb-47ed60617e28.jpg)
 
          
          
          Reading Scores With Grade 9 THS Students:
+         
          ![Screenshot (37)](https://user-images.githubusercontent.com/57723459/112701784-f057e580-8e67-11eb-9a19-cc39262b5823.png)
+         
     
-         Reading Scores Without Grade 9 THS Students:         
+         Reading Scores Without Grade 9 THS Students: 
+         
          ![new_reading_scores_by_grade](https://user-images.githubusercontent.com/57723459/112701794-f64dc680-8e67-11eb-9779-c40f915ac707.jpg)
 
 
