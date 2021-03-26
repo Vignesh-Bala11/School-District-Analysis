@@ -69,6 +69,7 @@ The school board notified Maria and her supervisor that there has been academic 
     - Scores by school spending 
 
         Removing the grade 9 students there was no change to the table
+        
          With Grade 9 THS Studends:
          ![Screenshot (39)](https://user-images.githubusercontent.com/57723459/112701874-301ecd00-8e68-11eb-8631-b555e2a32bd7.png)
          
